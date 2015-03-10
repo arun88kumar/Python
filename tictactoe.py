@@ -1,3 +1,5 @@
+#Simple Tic - Tac - Toe module 
+
 def check_result(game):
     
     #this will contain all possible combinations of winning collections
